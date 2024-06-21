@@ -1,2 +1,5 @@
-mysql
-redis
+zookeeper
+kafka
+tomact
+git
+jenkins
